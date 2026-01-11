@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BetMind AI - Football Analysis",
+  "description": "A world-class football analysis and betting insight platform powered by Gemini 3. Pro-grade statistics, real-time grounding, and predictive modeling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
